@@ -1,0 +1,7 @@
+C:\Users\Julia\source\repos\To do list\To do list\bin\Debug\To do list.exe.config
+C:\Users\Julia\source\repos\To do list\To do list\bin\Debug\To do list.exe
+C:\Users\Julia\source\repos\To do list\To do list\bin\Debug\To do list.pdb
+C:\Users\Julia\source\repos\To do list\To do list\obj\Debug\To do list.csproj.AssemblyReference.cache
+C:\Users\Julia\source\repos\To do list\To do list\obj\Debug\To do list.csproj.CoreCompileInputs.cache
+C:\Users\Julia\source\repos\To do list\To do list\obj\Debug\To do list.exe
+C:\Users\Julia\source\repos\To do list\To do list\obj\Debug\To do list.pdb
